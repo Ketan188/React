@@ -12,6 +12,13 @@
     padding: 10px;
     border: 1px solid black;
     min-height: 400px;
+}
+
+.search-bar-wrap {
+    padding: 10px;
+}
+
+.card-wrap {
     display: flex;
     flex-wrap: wrap;
 }
