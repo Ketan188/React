@@ -1,0 +1,40 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.nav-menu-container a {
+    padding: 5px;
+}
+
+.body-container {
+    padding: 10px;
+    border: 1px solid black;
+    min-height: 400px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.footer-container {
+    padding: 10px;
+}
+
+.resto-card-wrap {
+    border: 1px solid black;
+    width: 200px;
+    padding: 5px;
+    margin: 10px
+}
+
+.resto-card-wrap img {
+    width: 100%;
+}
+
+.resto-card-wrap h4 {
+    overflow-x: hidden;
+    margin: 0
+}
+.resto-card-wrap h2 {
+   margin: 0
+}
