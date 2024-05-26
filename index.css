@@ -45,3 +45,10 @@
 .resto-card-wrap h2 {
    margin: 0
 }
+
+.card-loader {
+    height: 300px;
+    width: 200px;
+    border: 1px solid black;
+    margin: 10px
+}
